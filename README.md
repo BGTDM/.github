@@ -1,14 +1,17 @@
 # BGTDM
-## History
-The gaming community focused on GTA SA-MP emerged from our dissatisfaction with a competing English-speaking community. Although we played as regular players, we frequently encountered abuses by the administrators.
 
-In 2017, BlackGreen (Lucas Cervantes) decided to start a new community. At that time, we used a gamemod called SATDM, which served as the first version of our community, hosting it for friends. Over time, we moved away from that gamemod and began developing our own, incorporating functions, roles, teams, vehicles, systems, and much more.
+## Our Story
 
-I, Gustavo, was part of the first team of administrators and also one of the programmers for the community.
+The BGTDM gaming community was born out of a desire for a better experience in the GTA SA-MP universe. Frustrated by the issues we faced in a competing English-speaking community, where admin abuses were common, we decided to create a space that prioritized fun and fairness.
 
-As time went on, many of our old friends started families and focused on their professional careers, causing the community to lose some of the joy of playing for hours on end with each other. However, this experience was crucial for our personal growth and significantly shaped our professional paths in the technology field.
+In 2017, BlackGreen (Lucas Cervantes) took the initiative to launch our community, starting with the SATDM gamemod as a foundation. What began as a small gathering of friends quickly transformed into something much larger. As we grew, we moved away from SATDM to develop our own unique gamemod, enhancing the gameplay with custom features, roles, teams, vehicles, and systems that reflected our collective vision.
 
-## What we are today
-Today, we maintain an active community on Discord, primarily for former players looking to reminisce about the experiences and memories made in what is one of Rockstar's best games. Here, we celebrate our history and the camaraderie we built over the years. Come be a part of this reunion!
+I, Gustavo, was among the first administrators and one of the early programmers, and it has been a rewarding journey filled with challenges and triumphs.
 
-Discord Community: https://discord.gg/RmrEe4Gg
+As time went on, many of our original members embraced new responsibilities—families, careers, and personal growth—which caused a shift in our gaming dynamics. While the late-night gaming marathons became less frequent, the experiences we shared were invaluable, profoundly influencing our personal and professional paths in technology.
+
+## What We Are Today
+
+Today, BGTDM thrives as a vibrant Discord community, welcoming former players who wish to reconnect and relive unforgettable moments from one of Rockstar's greatest titles. We celebrate our shared history and the bonds we forged over the years. Join us for a nostalgic reunion filled with laughter and camaraderie!
+
+**Discord Community:** [Join us here!](https://discord.gg/RmrEe4Gg)
